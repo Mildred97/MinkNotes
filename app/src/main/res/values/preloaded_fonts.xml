@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arapey</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/grand_hotel</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/lobster</item>
+        <item>@font/playfair_display</item>
+    </array>
+</resources>
